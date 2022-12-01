@@ -1,0 +1,24 @@
+body {
+    font-weight: 100;
+    text-align: center;
+    color: navy;
+    background-image: linear-gradient(skyblue 0%, lightseagreen 300%);
+    background-repeat: no-repeat;
+    height: 822px;
+}
+
+h1 {
+    font-weight: 100;
+}
+
+h2 {
+    font-weight: 100;
+}
+
+hr {
+    border-color: navy;
+    width: 50%;
+    animation-name: comein;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+}
